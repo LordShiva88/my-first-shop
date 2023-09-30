@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "headphones.jpg",
+    "categoryName": "Headphones",
+    "tagline": "Immerse Yourself in Music"
+  },
+  {
+    "id": 2,
+    "image": "watches.jpg",
+    "categoryName": "Watches",
+    "tagline": "Timepieces for Every Occasion"
+  },
+  {
+    "id": 3,
+    "image": "shoes.jpg",
+    "categoryName": "Shoes",
+    "tagline": "Step into Comfort and Style"
+  },
+  {
+    "id": 4,
+    "image": "tshirts.jpg",
+    "categoryName": "T-shirts",
+    "tagline": "Stay Cool and Trendy"
+  }
+]

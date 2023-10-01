@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img_url": "headphone1.jpg",
+    "img_url": "https://i.ibb.co/LCv2rT9/product-19-480x638.jpg",
     "name": "Premium Over-Ear Headphones",
     "rating": 4.5,
     "price": 149.99,
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "img_url": "headphone2.jpg",
+    "img_url": "https://i.ibb.co/n0G35WY/product-04-480x638.jpg",
     "name": "Wireless In-Ear Headphones",
     "rating": 4.2,
     "price": 79.99,
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "img_url": "headphone3.jpg",
+    "img_url": "https://i.ibb.co/0MBzWrg/product-13-480x638.jpg",
     "name": "Noise-Canceling On-Ear Headphones",
     "rating": 4.3,
     "price": 129.99,
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "img_url": "headphone4.jpg",
+    "img_url": "https://i.ibb.co/z8FxpQ3/product-15-480x638.jpg",
     "name": "Gaming Headset with Mic",
     "rating": 4.7,
     "price": 99.99,
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "img_url": "headphone5.jpg",
+    "img_url": "https://i.ibb.co/55MGNJv/product-03-480x638.jpg",
     "name": "Wireless Sports Earbuds",
     "rating": 4.6,
     "price": 69.99,
@@ -51,8 +51,7 @@
   },
   {
     "id": 6,
-    "img_url": "watch1.jpg",
-    "name": "Smart Fitness Watch",
+    "img_url": "https://i.ibb.co/tPvnNbM/product-03-480x638-1.jpg",
     "rating": 4.7,
     "price": 199.99,
     "features": ["Heart Rate Monitor", "GPS Tracking", "Water-resistant"],
@@ -61,7 +60,7 @@
   },
   {
     "id": 7,
-    "img_url": "watch2.jpg",
+    "img_url": "https://i.ibb.co/ws5x4Jg/product-02-480x638.jpg",
     "name": "Stylish Smartwatch",
     "rating": 4.4,
     "price": 179.99,
@@ -71,7 +70,7 @@
   },
   {
     "id": 8,
-    "img_url": "watch3.jpg",
+    "img_url": "https://i.ibb.co/tPvnNbM/product-03-480x638-1.jpg",
     "name": "Hybrid Smartwatch",
     "rating": 4.5,
     "price": 159.99,
@@ -81,7 +80,7 @@
   },
   {
     "id": 9,
-    "img_url": "watch4.jpg",
+    "img_url": "https://i.ibb.co/9cgBtMw/product-04-480x638-1.jpg",
     "name": "Rugged Outdoor Watch",
     "rating": 4.6,
     "price": 219.99,
@@ -91,7 +90,7 @@
   },
   {
     "id": 10,
-    "img_url": "watch5.jpg",
+    "img_url": "https://i.ibb.co/wLCXjB0/product-05-480x638-1.jpg",
     "name": "Fashionable Fitness Tracker",
     "rating": 4.3,
     "price": 139.99,
@@ -101,7 +100,7 @@
   },
   {
     "id": 11,
-    "img_url": "shoe1.jpg",
+    "img_url": "https://i.ibb.co/Thpb5qL/product-19-480x638-2.jpg",
     "name": "Running Shoes",
     "rating": 4.3,
     "price": 89.99,

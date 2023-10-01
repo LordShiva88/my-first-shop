@@ -1,12 +1,12 @@
+import { Link } from "react-router-dom";
 import Navbar from "./Navbar";
-
 
 const NavbarUser = () => {
   return (
     <div className="navbar bg-base-100 flex justify-between">
       <Navbar></Navbar>
 
-      <div className="flex-end">
+      <div className="">
         <div className="dropdown dropdown-end">
           <label tabIndex={0} className="btn btn-ghost btn-circle">
             <div className="indicator">
@@ -34,12 +34,27 @@ const NavbarUser = () => {
             <div className="card-body">
               <span className="font-bold text-lg">8 Items</span>
               <span className="text-info">Subtotal: $999</span>
-              <div className="card-actions">
-                <button className="btn btn-primary btn-block">View cart</button>
+              <div className="drawer drawer-end">
+                <input
+                  id="my-drawer-4"
+                  type="checkbox"
+                  className="drawer-toggle"
+                />
+                <div className="drawer-content">
+                  {/* Page content here */}
+                  <Link
+                    to={"/cart"}
+                    htmlFor="my-drawer-4"
+                    className="drawer-button btn btn-primary"
+                  >
+                    View Cart
+                  </Link>
+                </div>
               </div>
             </div>
           </div>
         </div>
+
         <div className="dropdown dropdown-end">
           <label tabIndex={0} className="btn btn-ghost btn-circle avatar">
             <div className="w-10 rounded-full">
@@ -66,6 +81,7 @@ const NavbarUser = () => {
         </div>
       </div>
     </div>
+
   );
 };
 
